@@ -20,7 +20,7 @@
 >
 > 4.Jiawen Zhang - Lu-Wu-Ya - H00391771
 >
-> 5.
+> 5. Adonis Mikeou - - 
 
 ## Initial Project Proposal
 
