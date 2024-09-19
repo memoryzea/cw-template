@@ -13,9 +13,13 @@
 > Follow this format: `[Full Name] - @[GitHubUsername] - [HW Matriculation Number]`
 
   Jinhao Han - memoryzea - H00391686
+  
   Guanyu Bian - N7766 - H00391673
+  
   Xiuyu Guo - Xiuyu66 - H00391684
+  
   Jiawen Zhang - Lu-Wu-Ya - H00391771
+  
   Adonis Mikeou - [identifier] - [identifier]
 
 ## Initial Project Proposal
