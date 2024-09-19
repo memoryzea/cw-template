@@ -18,7 +18,9 @@
 >
 > 3.Xiuyu Guo - Xiuyu66 - H00391684
 >
-> 4.Jiawen Zhang - Lu-Wu-Ya - H00391771>5. Adonis Mikeou - - 
+> 4.Jiawen Zhang - Lu-Wu-Ya - H00391771
+>
+>5. Adonis Mikeou - - 
 
 ## Initial Project Proposal
 
