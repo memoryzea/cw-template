@@ -19,7 +19,7 @@
  > 3.Xiuyu Guo - Xiuyu66 - H00391684
  >
  > 4.Adonis Mikeou - - 
- >
+ 
  >5. Jiawen Zhang - Lu-Wu-Ya - H00391771
 
 ## Initial Project Proposal
