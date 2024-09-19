@@ -12,10 +12,10 @@
 > [!IMPORTANT]
 > Follow this format: `[Full Name] - @[GitHubUsername] - [HW Matriculation Number]`
 
-1.
-2.
-3.
-4.
+1.Jinhao Han - memoryzea - H00391686  
+2.Guanyu Bian - N7766 - H00391673
+3.Xiuyu Guo - Xiuyu66 - H00391684
+4.Jiawen Zhang - Lu-Wu-Ya - H00391771
 5.
 
 ## Initial Project Proposal
